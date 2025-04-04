@@ -24,11 +24,12 @@ Visualizations:
 * Stacked bar chart: Visualize the breakdown of churn reasons within a segment. 
 * Heatmap: Identify relationships between multiple variables impacting churn.
 
-![Image](https://github.com/user-attachments/assets/18ea035b-126b-4dfd-b132-d8758f3c34dd)
-
-
 Skills Utilized:
 * Data cleaning, data transformation, Power BI query editor, DAX calculations, creation of dynamic visualizations, dashboard design principles.
 
 This practice project has been an enriching experience, and I look forward to applying my Power BI skills to more datasets!
+
+
+![Image](https://github.com/user-attachments/assets/18ea035b-126b-4dfd-b132-d8758f3c34dd)
+
 
